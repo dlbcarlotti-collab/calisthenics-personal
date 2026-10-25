@@ -1,0 +1,11 @@
+{
+  "name": "Calisthenics Personal",
+  "short_name": "Calisthenics",
+  "description": "Treinos de calistenia de 15 minutos sem assinatura",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f2",
+  "theme_color": "#153c34",
+  "lang": "pt-BR"
+}
