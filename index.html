@@ -49,4 +49,4 @@ $("volume").addEventListener("input",()=>{if(master)master.gain.value=Number($("
 document.addEventListener("visibilitychange",()=>{if(document.hidden&&soundOn)audioStop()});
 
 stats();if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));
-</script></body></html>
+</script><script src="./v2.js?v=1"></script></body></html>
